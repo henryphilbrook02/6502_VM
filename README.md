@@ -1,4 +1,4 @@
-# tsiraM-6502
+# 6502_VM
 tsiraM is a virtual 6502 processor written in TypeScript and running on Node.js.  This project is the practical component of Prof. Gormanly's Computer Organization and Architecture class.  This project strives to accomplish the following goals:
 - A deep understanding of how the machine works. There is no better way to learn how computers actually work than to build one!
 - You become a high level master of code by using OOP to create a virtual machine
